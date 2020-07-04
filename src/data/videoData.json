@@ -1,0 +1,68 @@
+{
+  "playlistId": "wbn_rdx",
+  "playlist": [
+    {
+      "num": 1,
+      "title": "Early Computing: Crash Course Computer Science #1",
+      "id": "O5nskjZ_GoI",
+      "duration": "11:52",
+      "video": "https://www.youtube.com/embed/O5nskjZ_GoI"
+    },
+    {
+      "num": 2,
+      "title": "Electronic Computing: Crash Course Computer Science #2",
+      "id": "LN0ucKNX0hc",
+      "duration": "10:43",
+      "video": "https://www.youtube.com/embed/LN0ucKNX0hc"
+    },
+    {
+      "num": 3,
+      "title": "Boolean Logic & Logic Gates: Crash Course Computer Science #3",
+      "id": "gI-qXk7XojA",
+      "duration": "10:06",
+      "video": "https://www.youtube.com/embed/gI-qXk7XojA"
+    },
+    {
+      "num": 4,
+      "title": "Representing Numbers and Letters with Binary: Crash Course Computer Science #4",
+      "id": "1GSjbWt0c9M",
+      "duration": "10:45",
+      "video": "https://www.youtube.com/embed/1GSjbWt0c9M"
+    },
+    {
+      "num": 5,
+      "title": "How Computers Calculate - the ALU: Crash Course Computer Science #5",
+      "id": "1I5ZMmrOfnA",
+      "duration": "11:09",
+      "video": "https://www.youtube.com/embed/1I5ZMmrOfnA"
+    },
+    {
+      "num": 6,
+      "title": "Registers and RAM: Crash Course Computer Science #6",
+      "id": "fpnE6UAfbtU",
+      "duration": "12:16",
+      "video": "https://www.youtube.com/embed/fpnE6UAfbtU"
+    },
+    {
+      "num": 7,
+      "title": "The Central Processing Unit (CPU): Crash Course Computer Science #7",
+      "id": "FZGugFqdr60",
+      "duration": "11:37",
+      "video": "https://www.youtube.com/embed/FZGugFqdr60"
+    },
+    {
+      "num": 8,
+      "title": "Instructions & Programs: Crash Course Computer Science #8",
+      "id": "zltgXvg6r3k",
+      "duration": "10:35",
+      "video": "https://www.youtube.com/embed/zltgXvg6r3k"
+    },
+    {
+      "num": 9,
+      "title": "Advanced CPU Designs: Crash Course Computer Science #9",
+      "id": "rtAlC5J1U40",
+      "duration": "12:22",
+      "video": "https://www.youtube.com/embed/rtAlC5J1U40"
+    }
+  ]
+}
